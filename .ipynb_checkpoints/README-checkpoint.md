@@ -17,5 +17,3 @@ This data analysis project compares the trend of US Stock market and Cryptocurre
 Visit [this DJIA dataset source](https://fred.stlouisfed.org/series/DJIA) and [this S&P 500 dataset source](https://fred.stlouisfed.org/series/SP500). In the upper right corner there's an orange *edit graph* button, on the left of this button, there's a date picker. Choose the start date to a value as early as possible, then there's a download button where you can download .csv files. Place these two .csv files in the ./data/ folder so the Jupyter notebook can find them.
 
 Unfortunately, datasets of DJIA and S&P 500's daily values can't be included in this GitHub repository since I need to obtain permission in order to re-distribute these two datasets.
-
-One README file in .txt or .md format that contains a short summary of your proposed final project (A single paragraph is fine at this point; you’ll expand this README for assignments 7)
