@@ -1,0 +1,4 @@
+# DJIA and S&P500 dataset can't be published on GitHub
+data/DJIA.csv
+data/SP500.csv
+
