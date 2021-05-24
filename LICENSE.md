@@ -1,4 +1,4 @@
-The data analysis files (everything except content in data/ folder) are licensed under:
+## The data analysis files (everything except content in data/ folder) are licensed under:
 
 MIT License
 
@@ -23,7 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Dataset license:
+## Dataset license:
 
 **Daily Price for Bitcoin in US Dollar**
 
