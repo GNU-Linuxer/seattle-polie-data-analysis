@@ -1,3 +1,5 @@
+The data analysis files (everything except content in data/ folder) are licensed under:
+
 MIT License
 
 Copyright (c) 2021 David Xie
@@ -19,3 +21,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+Dataset license:
+
+**Daily Price for Bitcoin in US Dollar**
+
+File name and location: `data/Bitcoin.csv`
+
+License: CC0: Public Domain
+
+**Daily Price for Ethereum in US Dollar**
+
+File name and location: `data/Ethereum.csv`
+
+License: CC0: Public Domain
+
+**Daily Value of Dow Jones Industrial Average index (DJIA)**
+
+License: permission required to redistribute this dataset (hence not included in this repository)
+
+**Daily Value of Standard & Poors 500 index (S&P 500)**
+
+License: permission required to redistribute this dataset (hence not included in this repository)
