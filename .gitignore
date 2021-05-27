@@ -1,4 +1,2 @@
-# DJIA and S&P500 dataset can't be published on GitHub
-data/DJIA.csv
-data/SP500.csv
-
+# actual .csv data (too large) and API token should not be uploaded to github
+data/
