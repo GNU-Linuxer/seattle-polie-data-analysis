@@ -1,2 +1,1 @@
-# actual .csv data (too large) and API token should not be uploaded to github
-data/
+token.txt
