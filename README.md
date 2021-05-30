@@ -8,25 +8,25 @@ City of Seattle Crime Data (2008 - Present) from [Seattle Open Data Website](htt
 
 ## Dataset Field description
 
-| Field Name | Description | Note| 
-| ---------- | ----------- | --- |
-| Report_Number | Primary key/UID for the overall report. One report can contain multiple offenses, as denoted by the Offense ID.  | Not used | 
-| Offense_ID | Distinct identifier to denote when there are multiple offenses associated with a single report.  | Not used | 
-| Offense_Start_DateTime | Start date and time the offense(s) occurred.  | | 
-| Offense_End_DateTime | End date and time the offense(s) occurred, when applicable.  | Not used | 
-| Report_DateTime | Date and time the offense(s) was reported. (Can differ from date of occurrence)  | Not used | 
-| Group_A_B | Corresponding offense group.  | Not used | 
-| Crime_Against_Category | Corresponding offense crime against category.  | | 
-| Offense_Parent_Group | Corresponding offense parent group.  | |  
-| Offense | Corresponding offense.  | | 
-| Offense_Code | Corresponding offense code.  | Not used | 
-| Precinct | Designated police precinct boundary where offense(s) occurred.  | Not used | 
-| Sector | Designated police sector boundary where offense(s) occurred.  | Not used | 
-| Beat | Designated police beat boundary where offense(s) occurred. | Not used | 
-| MCPP_Neighborhood | Designated [Micro-Community Policing Plans](https://www.seattle.gov/police/community-policing/mcpp) (MCPP) boundary where offense(s) occurred. |  | 
-| Blurred_Address | Offense(s) address location blurred to the one hundred block.  | Not used | 
-| Blurred_Longitude Coordinate | Offense(s) spatial coordinate blurred to the one hundred block.  | Not used | 
-| Blurred_Latitude Coordinate | Offense(s) spatial coordinate blurred to the one hundred block. | Not used | 
+| Field Name | Description | Field is used in my analysis | 
+| ---------- | ----------- | ---------------------------- |
+| Report_Number | Primary key/UID for the overall report. One report can contain multiple offenses, as denoted by the Offense ID.  | ✖️ | 
+| Offense_ID | Distinct identifier to denote when there are multiple offenses associated with a single report.  | ✖️ | 
+| Offense_Start_DateTime | Start date and time the offense(s) occurred.  | ✔️ | 
+| Offense_End_DateTime | End date and time the offense(s) occurred, when applicable.  | ✖️ | 
+| Report_DateTime | Date and time the offense(s) was reported. (Can differ from date of occurrence)  | ✖️ | 
+| Group_A_B | Corresponding offense group.  | ✖️ | 
+| Crime_Against_Category | Corresponding offense crime against category.  | ✔️ | 
+| Offense_Parent_Group | Corresponding offense parent group.  | ✔️ |  
+| Offense | Corresponding offense.  | ✔️ | 
+| Offense_Code | Corresponding offense code.  | ✔️ | 
+| Precinct | Designated police precinct boundary where offense(s) occurred.  | ✖️ | 
+| Sector | Designated police sector boundary where offense(s) occurred.  | ✖️ | 
+| Beat | Designated police beat boundary where offense(s) occurred. | ✖️ | 
+| MCPP_Neighborhood | Designated [Micro-Community Policing Plans](https://www.seattle.gov/police/community-policing/mcpp) (MCPP) boundary where offense(s) occurred. | ✔️ | 
+| Blurred_Address | Offense(s) address location blurred to the one hundred block.  | ✖️ | 
+| Blurred_Longitude Coordinate | Offense(s) spatial coordinate blurred to the one hundred block.  | ✖️ | 
+| Blurred_Latitude Coordinate | Offense(s) spatial coordinate blurred to the one hundred block. | ✖️ | 
 
 
 SPD employs an FBI UCR NIBRS-compliant police records management system in accordance with reporting guidelines. For additional information visit [https://www.fbi.gov/services/cjis/ucr/nibrs].
