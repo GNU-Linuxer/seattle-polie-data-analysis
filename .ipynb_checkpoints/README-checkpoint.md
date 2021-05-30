@@ -6,14 +6,18 @@ This data analysis project compares the trend of US Stock market and Cryptocurre
 
 ## Dataset Used
 
-* Daily Value of Dow Jones Industrial Average index (DJIA) (The final project uses data dated 2011-05-16 to 2021-05-14)
-* Daily Value of Standard & Poors 500 index (S&P 500) (The final project uses data dated 2011-05-16 to 2021-05-14)
-* Daily Price for Bitcoin in US Dollar (The final project uses data dated 2010-07-18 to 2021-04-25)
-* Daily Price for Ethereum in US Dollar (The final project uses data dated 2016-03-10 to 2021-04-25)
+City of Seattle Crime Data (2008 - Present) from [Seattle Open Data Website](https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5)
 
+## Generated .csv files
 
-## Steps to fetch DJIA and S&P 500 dataset .csv files
+Question 1-4.csv files are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
 
-Visit [this DJIA dataset source](https://fred.stlouisfed.org/series/DJIA) and [this S&P 500 dataset source](https://fred.stlouisfed.org/series/SP500). In the upper right corner there's an orange *edit graph* button, on the left of this button, there's a date picker. Choose the start date to a value as early as possible, then there's a download button where you can download .csv files. Place these two .csv files in the ./data/ folder so the Jupyter notebook can find them.
+## API documentation
+* [SODA API documentation](https://dev.socrata.com/consumers/getting-started.html)
 
-Unfortunately, datasets of DJIA and S&P 500's daily values can't be included in this GitHub repository since I need to obtain permission in order to re-distribute these two datasets.
+Known issue: Readers/Users may need to sign-up for API key on [data.seattle.gov] ; otherwise their request is subject to rate limitation. Optional code and instruction to import API key is denoted in the `Final project.ipynb` notebook file.
+
+## License
+
+* Code, Python Notebook, and generated .csv files are licensed under MIT license.
+* Dataset is licensed under Public Domain.
