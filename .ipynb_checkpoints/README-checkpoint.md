@@ -1,6 +1,18 @@
 # Seattle City Crime Data Analysis
 
-This data analysis project compares the trend of US Stock market and Cryptocurrency market throughout 2016-04-01 till 2021-3-31, for the sake to analyze whether two markets correlates (or inversely correlates) with each other, and how COVID-19 Pandemic changes such correlation. Bitcoin and other cryptocurrencies have become a more and more popular alternative investment vehicle (than the US Stock market), especially during the COVID-19 pandemic that has brought Bitcoin's price from $6000 to $6000**0** at one point. Result from this data analysis can inform readers how similar (or different) does the US Stock market and Cryptocurrency market behave, which might provide them useful information when they're investing in either market.
+This data analysis project discovers select trends of crime offenses in Seattle (from 2008 to present), using the individual crime dataset from Seattle Police Department. I especially want to answer these questions based on several news articles describing certain aspects of crime activities in Seattle, denoted in the background section (within `Final project.ipynb`).
+* How the advent of COVID-19 (2020-01-01) resulted in certain offenses becoming more popular,
+* Whether crimes against person is more popular than crimes against property,
+* Most frequent offenses in University District, and
+* Whether Seattle has record-high homicide offenses counts. 
+
+After data analysis, I discovered that 
+* Fraud offense, burglary, vandalism of property, robbery have increased after 2020-01-01,
+* Crime against property is noticeably more frequent than crime against person,
+* Larceny/theft, burglary, and assault offenses are popular in the University District, and
+* Seattle do have a record-high homicide offense in 2020 (55 offenses total).
+
+Result from this data analysis encourages readers to take extra care on their properties while in Seattle, especially on be vigilient in potential fraud attempts. Moreover, these findings helps people in the University District (the University of Washington area) to aware larceny on their laptop computers and other valuable items.
 
 ## Dataset Used
 
