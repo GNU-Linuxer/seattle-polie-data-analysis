@@ -47,7 +47,7 @@ SPD employs an FBI UCR NIBRS-compliant police records management system in accor
 
 ## Generated .csv files
 
-Question 1-4 out.csv files are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
+`Question 1-4 out.csv` files are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
 
 ## API documentation
 * [SODA API documentation](https://dev.socrata.com/consumers/getting-started.html)
@@ -58,3 +58,7 @@ Known issue: Readers/Users may need to sign-up for API key on [data.seattle.gov]
 
 * Code, Python Notebook, and generated .csv files are licensed under MIT license.
 * Dataset is licensed under Public Domain.
+
+## Other Related Data Analysis Reports
+
+* [Exploring Seattle Crime](https://cse412-21w.github.io/seattle-crime/), a UW CSE 412 Data Visualization Project
