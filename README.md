@@ -3,11 +3,11 @@
 This data analysis project discovers select trends of crime offenses in Seattle (from 2008 to present), using the individual crime dataset from Seattle Police Department. I especially want to answer these questions based on several news articles describing certain aspects of crime activities in Seattle, denoted in the background section (within `Final project.ipynb`).
 * How the advent of COVID-19 (2020-01-01) resulted in certain offenses becoming more popular,
 * Whether crimes against person is more popular than crimes against property,
-* Most frequent offenses in University District, and
+* What are most frequent offenses in University District, and
 * Whether Seattle has record-high homicide offenses counts. 
 
 After data analysis, I discovered that 
-* Fraud offense, burglary, vandalism of property, robbery have increased after 2020-01-01,
+* Fraud offense, burglary, vandalism of property, robbery, and weapon law violation have increased after 2020-01-01,
 * Crime against property is noticeably more frequent than crime against person,
 * Larceny/theft, burglary, and assault offenses are popular in the University District, and
 * Seattle do have a record-high homicide offense in 2020 (55 offenses total).
@@ -47,7 +47,7 @@ SPD employs an FBI UCR NIBRS-compliant police records management system in accor
 
 ## Generated .csv files
 
-Question 1-4.csv files are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
+Question 1-4 out.csv files are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
 
 ## API documentation
 * [SODA API documentation](https://dev.socrata.com/consumers/getting-started.html)
