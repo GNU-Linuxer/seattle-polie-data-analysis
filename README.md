@@ -1,6 +1,6 @@
 # Seattle City Crime Data Analysis
 
-This data analysis project discovers select trends of crime offenses in Seattle (from 2008 to present), using the individual crime dataset from Seattle Police Department. I especially want to answer these questions based on several news articles describing certain aspects of crime activities in Seattle, denoted in the background section (within `Final project.ipynb`).
+This data analysis project discovers select trends of crime offenses in Seattle (from 2008 to present), using the crime dataset from Seattle Police Department. I especially want to answer these questions based on several news articles describing certain aspects of crime activities in Seattle, denoted in the background section (within `Final project.ipynb`).
 * How the advent of COVID-19 (2020-01-01) resulted in certain offenses becoming more popular,
 * Whether crimes against person is more popular than crimes against property,
 * What are most frequent offenses in University District, and
@@ -12,7 +12,7 @@ After data analysis, I discovered that
 * Larceny/theft, burglary, and assault offenses are popular in the University District, and
 * Seattle do have a record-high homicide offense in 2020 (55 offenses total).
 
-Result from this data analysis encourages readers to take extra care on their properties while in Seattle, and especially be vigilant on fraud attempts. Moreover, these findings helps people in the University District (the University of Washington area) to aware larceny on their laptop computers and other valuable items.
+Result from this data analysis encourages readers to take extra care on their properties while in Seattle, and especially be vigilant on fraud attempts. Moreover, these findings helps people in the University District (the University of Washington area) to aware thefts on their laptop computers and other valuable items.
 
 ## Dataset Used
 
@@ -52,7 +52,7 @@ SPD employs an FBI UCR NIBRS-compliant police records management system in accor
 ## API documentation
 * [SODA API documentation](https://dev.socrata.com/consumers/getting-started.html)
 
-Known issue: Readers/Users may need to sign-up for API key on [data.seattle.gov] ; otherwise their requests are subject to rate limitation. Optional code and instruction to import API key is denoted in the `Final project.ipynb` notebook file.
+Known issue: Readers/Users may need to sign-up for App token on [this data.seattle.gov link](https://data.seattle.gov/profile/edit/developer_settings); otherwise their requests are subject to rate limitation. Optional code and instruction to import App token is denoted in the `Final project.ipynb` notebook file.
 
 ## License
 
