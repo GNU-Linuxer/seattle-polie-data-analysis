@@ -67,12 +67,20 @@ Known issue: Readers/Users may need to sign-up for App token on [this data.seatt
 
 ## Visualizations and Graphs
 
+### Research Question 1
+
 ![Research Question 1 Plot number 1](Plot_1_1.png)
 
 ![Research Question 1 Plot number 2](Plot_1_2.png)
 
+### Research Question 2
+
 ![Research Question 2 Plot](Plot_2.png)
 
+### Research Question 3
+
 ![Research Question 3 Plot](Plot_3.png)
+
+### Research Question 4
 
 ![Research Question 4 Plot](Plot_4.png)
