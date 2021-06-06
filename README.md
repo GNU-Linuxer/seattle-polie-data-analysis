@@ -67,12 +67,12 @@ Known issue: Readers/Users may need to sign-up for App token on [this data.seatt
 
 ## Visualizations and Graphs
 
-![Research Question 1 Plot number 1](Plot 1_1.png)
+![Research Question 1 Plot number 1](./Plot 1_1.png)
 
-![Research Question 1 Plot number 2](Plot 1_2.png)
+![Research Question 1 Plot number 2](./Plot 1_2.png)
 
-![Research Question 2 Plot](Plot 2.png)
+![Research Question 2 Plot](./Plot 2.png)
 
-![Research Question 3 Plot](Plot 3.png)
+![Research Question 3 Plot](./Plot 3.png)
 
-![Research Question 4 Plot](Plot 4.png)
+![Research Question 4 Plot](./Plot 4.png)
