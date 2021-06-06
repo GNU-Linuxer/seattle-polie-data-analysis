@@ -45,9 +45,11 @@ SPD employs an FBI UCR NIBRS-compliant police records management system in accor
 
 [Seattle Open Data Website](https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5) contains an up-to-date PDF file describing all fields in this dataset.
 
-## Generated .csv files
+## Generated .csv tables and .png pictures
 
-`Question 1-4 out.csv` files are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
+`Question 1-4 out.csv` tables are cleaned and processed data prior to statistical analysis and data visualization (for the specific question). Readers can import .csv files to their favorite analysis/visualization software.
+
+`Plot 1-4.png` pictures are generated visualization plots from the `Final project.ipynb` notebook file.
 
 ## API documentation
 * [SODA API documentation](https://dev.socrata.com/consumers/getting-started.html)
@@ -62,3 +64,11 @@ Known issue: Readers/Users may need to sign-up for App token on [this data.seatt
 ## Other Related Data Analysis Reports
 
 * [Exploring Seattle Crime](https://cse412-21w.github.io/seattle-crime/), a UW CSE 412 Data Visualization Project
+
+## Visualizations and Graphs
+
+![Research Question 1 Plot number 1](Plot 1_1.png)
+![Research Question 1 Plot number 2](Plot 1_2.png)
+![Research Question 2 Plot](Plot 2.png)
+![Research Question 3 Plot](Plot 3.png)
+![Research Question 4 Plot](Plot 4.png)
