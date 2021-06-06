@@ -41,7 +41,7 @@ City of Seattle Crime Data (2008 - Present) from [Seattle Open Data Website](htt
 | Blurred_Latitude Coordinate | Offense(s) spatial coordinate blurred to the one hundred block. | ✘ | 
 
 
-SPD employs an FBI UCR NIBRS-compliant police records management system in accordance with reporting guidelines. For additional information visit [https://www.fbi.gov/services/cjis/ucr/nibrs].
+SPD employs an FBI UCR NIBRS-compliant police records management system in accordance with reporting guidelines. For additional information visit https://www.fbi.gov/services/cjis/ucr/nibrs.
 
 [Seattle Open Data Website](https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5) contains an up-to-date PDF file describing all fields in this dataset.
 
